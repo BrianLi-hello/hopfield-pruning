@@ -1,4 +1,3 @@
-# specify versions of packages
 torch
 matplotlib
 numpy
