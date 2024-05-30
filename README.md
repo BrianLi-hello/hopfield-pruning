@@ -24,5 +24,7 @@ Author: Brian Li (in collaboration with UC Davis Center for Neuroscience Chaudhu
       ```
 3. Run all in ``hopfield_caltech.ipynb``
 
-## Information on diagrams
--  ``poster/symbols.md`` contains all of the equations and expressions used
+## Resources Used
+1. [Introduction to Hopfield networks](https://towardsdatascience.com/hopfield-networks-neural-memory-machines-4c94be821073)
+2. [Overview of Hopfield networks and Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/)
+3. [Video introducing Hopfield networks](https://www.youtube.com/watch?v=81B-ESqgCjs&ab_channel=JeffOrchard)
