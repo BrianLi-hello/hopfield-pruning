@@ -1,3 +1,5 @@
+![ASPIRE 2024 Poster](./poster/aspire_2024.png)
+
 # Hopfield Networks: Comparing Sparse and Magnitude Pruning
 
 Author: Brian Li (in collaboration with UC Davis Center for Neuroscience Chaudhuri Lab)
